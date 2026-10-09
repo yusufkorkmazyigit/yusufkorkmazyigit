@@ -31,7 +31,7 @@ I work at the intersection of **swarm intelligence** and **machine learning**, u
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR@EMAIL.com) · [X](https://twitter.com/imkorkmazyigit)
+[LinkedIn](https://www.linkedin.com/in/yusufkorkmazyigit) · [Email](mailto:yusuf.korkmazyigit@gmail.com) · [X](https://twitter.com/imkorkmazyigit)
 
 ---
 
