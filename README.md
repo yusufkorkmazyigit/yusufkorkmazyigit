@@ -1,5 +1,9 @@
 # Hi, I'm Yusuf Korkmazyiğit 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&center=true&vCenter=true&width=600&lines=Swarm+Intelligence+%C3%97+Machine+Learning;Artificial+Bee+Colony+for+ML+Optimization;Federated+Learning+%7C+Metaheuristics" alt="Typing SVG" />
+</p>
+
 **Computer Engineering student @ Erciyes University, Türkiye**
 I work at the intersection of **swarm intelligence** and **machine learning**, using the Artificial Bee Colony (ABC) algorithm to optimize ML models, from hyperparameter search to federated learning.
 
@@ -19,9 +23,9 @@ I work at the intersection of **swarm intelligence** and **machine learning**, u
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · Java · C/C++
-**ML/DL:** scikit-learn · TensorFlow/Keras · NumPy · Pandas · Matplotlib
-**Other:** Jupyter · Git · JavaFX · ESP32
+- **Languages:** Python · Java · C/C++
+- **ML/DL:** scikit-learn · TensorFlow/Keras · NumPy · Pandas · Matplotlib
+- **Other:** Jupyter · Git · JavaFX · ESP32
 
 ### 🌍 Currently
 
