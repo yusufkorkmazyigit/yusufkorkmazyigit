@@ -37,7 +37,7 @@ pip install abcopt
 - **Erciyes Neutrino Research Group** · Undergraduate Researcher, TÜBİTAK 2247-C scholar
   Cherenkov / scintillation photon separation in water-based liquid scintillator detectors: ROOT-to-ML data pipelines and a benchmark of 20 classifiers, where a tuned ensemble reached 95.75% accuracy versus ~90% for the classical time-cut method.
 - **TÜBİTAK 2209-A** · Project Leader
-  Hyperparameter optimization of photon-separation models with ABC, compared with Grid Search, Random Search and Optuna TPE under equal budgets.
+  Hyperparameter optimization of photon-separation models with ABC, compared with Grid Search, Random Search and Optuna TPE under equal budgets ([code & results](https://github.com/yusufkorkmazyigit/cherenkov-abc-hpo)).
 - **POSCO Assan TST Steel** · Software Engineering Intern
   Defect-driver analysis on production sensor data (XGBoost, GroupKFold, SHAP) and a YOLOv8 segmentation model for steel surface defects.
 - **Graduation thesis: KOVAN** · in progress
@@ -48,6 +48,7 @@ pip install abcopt
 | Project | What it is |
 |---|---|
 | [**abcopt**](https://github.com/yusufkorkmazyigit/abc-optimizer-lib) | Canonical ABC + scikit-learn hyperparameter search, published on PyPI |
+| [**cherenkov-abc-hpo**](https://github.com/yusufkorkmazyigit/cherenkov-abc-hpo) | ABC vs Grid / Random / Optuna TPE for Cherenkov–scintillation photon separation (TÜBİTAK 2209-A) |
 | [**steel-defect-detection**](https://github.com/yusufkorkmazyigit/steel-defect-detection) | YOLOv8n-seg segmentation of steel surface defects with a Streamlit app |
 | [**fedLearningwithABC**](https://github.com/yusufkorkmazyigit/fedLearningwithABC) | ABC-learned aggregation weights for FedAvg on non-IID medical images |
 | [**Solid Waste Detection**](https://github.com/yusufkorkmazyigit/Solid_Waste_Detection_with_CNN) | CNN from scratch for six-class waste classification |
@@ -66,6 +67,6 @@ pip install abcopt
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/yusufkorkmazyigit) · [Email](mailto:yusuf.korkmazyigit@gmail.com) · [X](https://twitter.com/imkorkmazyigit)
+[Website](https://yusufkorkmazyigit.com) · [LinkedIn](https://www.linkedin.com/in/yusufkorkmazyigit) · [Email](mailto:yusuf.korkmazyigit@gmail.com) · [X](https://twitter.com/imkorkmazyigit)
 
 <sub>*Working to give direction to science and technology, from the present to the future.*</sub>
