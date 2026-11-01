@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&center=true&vCenter=true&width=680&lines=Swarm+Intelligence+%C3%97+Machine+Learning;Reliable+ML+for+aerospace+%E2%80%94+aero-rul;Author+of+abcopt+and+aerorul+on+PyPI;ML+for+Neutrino+Physics+%40+ENRG" alt="Swarm Intelligence × Machine Learning" />
 </p>
 
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
-  <br><sub>My <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>, redrawn every night from my GitHub activity</sub>
-</p>
 
 Computer Engineering student at **Erciyes University**, Türkiye. I build machine-learning and optimization tools that can be trusted: measured uncertainty, fair comparisons, reproducible results. My work spans **swarm-intelligence optimization** (the Artificial Bee Colony algorithm), **predictive maintenance for aerospace**, and **ML for particle physics** as an undergraduate researcher in the Erciyes Neutrino Research Group, a member institution of the **ANNIE** (Fermilab) and **EOS** (UC Berkeley) experiments.
 
